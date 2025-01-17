@@ -52,3 +52,4 @@ module Oxidized
     logger.level = Logger::INFO unless config.debug
   end
 end
+# This is a test comment
